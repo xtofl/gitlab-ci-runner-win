@@ -12,7 +12,7 @@ namespace runner.Build.success.test
     ///to contain all BuildTest Unit Tests
     ///</summary>
     [TestClass()]
-    public class BuildTest
+    public class BuildIntegrationTest
     {
 
 
